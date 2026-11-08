@@ -1,7 +1,7 @@
 # Enterprise Campus LAN Design & Switching Implementation (Cisco Packet Tracer)
 
 A comprehensive multi-tier Enterprise Campus Switching project implemented in **Cisco Packet Tracer**, demonstrating core networking concepts, redundancy, high availability, and secure device administration.
-
+[switching%20task.png]
 ---
 
 ## 📌 Project Architecture & Topology
